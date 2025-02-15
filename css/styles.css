@@ -275,7 +275,6 @@ img {
   display: flex;
   align-items: flex-start;
   flex-direction: column;
-  
   border-bottom: 1px solid #e7e9fc;
   border-left: 1px solid #e7e9fc;
   border-right: 1px solid #e7e9fc;
@@ -326,13 +325,25 @@ img {
 
 /*footer*/
 
+.container-footer {
+  align-items: center;
+ padding-top: 100px;
+ 
+}
+
 .page-footer {
   background-color: #2e2f42;
 }
+
+
 
 .text-footer {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #f4f4fd;
+  max-width: 264px;
+  margin: 16px 0px 100px 0px;
+  padding-bottom: 100px;
 }
+
