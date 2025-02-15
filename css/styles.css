@@ -182,7 +182,7 @@ img {
 }
 
 .tasks {
-  padding: 120px 0
+  padding: 120px 0;
 }
 
 .tasks-list {
@@ -244,7 +244,6 @@ img {
   color: #2e2f42;
   text-transform: capitalize;
   margin-bottom: 72px;
-  
 }
 
 .team-name {
@@ -272,7 +271,7 @@ img {
   display: flex;
   align-items: center;
   flex-direction: column;
-  padding: 32px 16px;
+  
 }
 
 .container-product {
@@ -282,8 +281,8 @@ img {
   border-bottom: 1px solid #e7e9fc;
   border-left: 1px solid #e7e9fc;
   border-right: 1px solid #e7e9fc;
-  margin-bottom: 8px
-  
+  margin-bottom: 8px;
+  padding: 32px 16px;
 }
 
 .works {
@@ -312,7 +311,6 @@ img {
   text-transform: capitalize;
   margin-top: 117px;
   margin-bottom: 72px;
-  
 }
 
 .works-product {
@@ -323,7 +321,7 @@ img {
   color: #2e2f42;
   padding-top: 32px;
   padding-left: 16px;
-  margin-bottom: 8px
+  margin-bottom: 8px;
 }
 
 .works-direction {
@@ -339,8 +337,6 @@ img {
 
 .container-footer {
   align-items: center;
- 
- 
 }
 
 .footer-logo {
@@ -353,15 +349,10 @@ img {
   padding: 100px 0;
 }
 
-
-
 .text-footer {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #f4f4fd;
   max-width: 264px;
-  
-  
 }
-
