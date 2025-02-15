@@ -283,7 +283,7 @@ img {
   border-left: 1px solid #e7e9fc;
   border-right: 1px solid #e7e9fc;
   margin-bottom: 8px
-  padding: 32px 16px;
+  
 }
 
 .works {
@@ -339,12 +339,18 @@ img {
 
 .container-footer {
   align-items: center;
- padding-top: 100px;
  
+ 
+}
+
+.footer-logo {
+  display: inline-block;
+  margin-bottom: 16px;
 }
 
 .page-footer {
   background-color: #2e2f42;
+  padding: 100px 0;
 }
 
 
@@ -355,7 +361,7 @@ img {
   letter-spacing: 0.02em;
   color: #f4f4fd;
   max-width: 264px;
-  margin: 16px 0px 100px 0px;
-  padding-bottom: 100px;
+  
+  
 }
 
